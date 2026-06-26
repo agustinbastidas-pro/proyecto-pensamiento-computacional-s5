@@ -2672,7 +2672,7 @@ function dibujarFlechaBoton(obj, sx, sy, alpha) {
 }
 ```
 --------------------------
-# Pagina 4
+# Pagina 7
 --------------------------
 
 ```
